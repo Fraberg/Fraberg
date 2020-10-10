@@ -1,4 +1,4 @@
-Currently CS student at [42 school](https://github.com/42Paris) in Paris, France.
+Currently software engineering student at [42 school](https://github.com/42Paris) in Paris, France.
 Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch#101, 2017).
 
 ## projects achieved @42 🎓
@@ -11,10 +11,10 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch#101, 2017)
 - ft_services: virtualize a network of microservices and do "clustering" with [docker](https://www.docker.com/) and [kubernetes](https://kubernetes.io/) stack.
 - libasm: recoded some basic functions, in [assembler](https://en.wikipedia.org/wiki/Assembly_language)
 - cub3D: recoded a light version of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) game with sprites using [raycasting](https://en.wikipedia.org/wiki/Ray_casting) technique
-- ft_server:
-- ft_printf:
-- get_next_line():
-- libft
+- ft_server: do some system administration with [wordpress](wordpress), [phpmyadmin](https://www.phpmyadmin.net/), [nginx](https://en.wikipedia.org/wiki/Nginx) and [docker](https://www.docker.com/).
+- ft_printf: recode [printf](https://en.wikipedia.org/wiki/Printf_format_string), the main C output function
+- get_next_line(): code a fully secured function to read a [file descriptor](https://en.wikipedia.org/wiki/File_descriptor), in C
+- libft: recode C library regrouping usual functions allowed to use in future projects.
 
 ## freelance projects 💸
 -
