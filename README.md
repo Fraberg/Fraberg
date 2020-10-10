@@ -1,6 +1,3 @@
-### Hi there 👋
-
-## $whoami
 Currently CS student at [42 school](https://github.com/42Paris) in Paris, France.
 Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch#101, 2017).
 
