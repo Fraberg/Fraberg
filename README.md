@@ -7,7 +7,7 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 - ft_containers: recoded some [STL containers](https://en.cppreference.com/w/cpp/container) - list, vector, queue, stack and map (as a [binary search tree](https://fr.wikipedia.org/wiki/Arbre_binaire_de_recherche)) in C++
 - philosophers: solved [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) with [multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) in C
 - C++ piscine: validated suite of 9 projects made up from severals exercices to learn c++ [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
-- minishell: create a [shellscript](https://en.wikipedia.org/wiki/Shell_script), in c, able to run [builtin commands](https://en.wikipedia.org/wiki/Shell_builtin#:~:text=In%20computing%2C%20a%20shell%20builtin,is%20no%20program%20loading%20overhead.) and execute binaries
+- minishell: create a [shellscript](https://en.wikipedia.org/wiki/Shell_script), in C, able to run [builtin commands](https://en.wikipedia.org/wiki/Shell_builtin#:~:text=In%20computing%2C%20a%20shell%20builtin,is%20no%20program%20loading%20overhead.) and execute binaries
 - ft_services: virtualize a network of microservices and do "clustering" with [docker](https://www.docker.com/) and [kubernetes](https://kubernetes.io/) stack.
 - libasm: recoded some basic functions, in [assembler](https://en.wikipedia.org/wiki/Assembly_language)
 - cub3D: recoded a light version of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) game with sprites using [raycasting](https://en.wikipedia.org/wiki/Ray_casting) technique
