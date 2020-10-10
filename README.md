@@ -22,7 +22,7 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 - web scrapping using [Puppeteer](https://developers.google.com/web/tools/puppeteer) for M&A business dev
 - [sentimental analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) of twitter trends for a political organization using [twitter API](https://developer.twitter.com/en/docs) and [Google AI APIs](https://cloud.google.com/natural-language)
 - python teacher at [Collège privé Gerson](https://www.gerson-paris.com/)
-- designed, implemented and shipped to production an order management software [Ordea](https://www.ordea.co/) in use parisian artisans.
+- designed, implemented and shipped to production an order management software [Ordea](https://www.ordea.co/) used by parisian artisans.
 
 ## side projects 🔥
 - lot of them
