@@ -24,5 +24,5 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 - python teacher at [Collège privé Gerson](https://www.gerson-paris.com/)
 - designed, implemented and shipped to production an order management software [Ordea](https://www.ordea.co/) used by parisian artisans
 
-## side projects 🔥
+## side projects 😎
 - lot of them
