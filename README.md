@@ -14,7 +14,7 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 - ft_server: do some system administration with [wordpress](wordpress), [phpmyadmin](https://www.phpmyadmin.net/), [nginx](https://en.wikipedia.org/wiki/Nginx) and [docker](https://www.docker.com/).
 - ft_printf: recode [printf](https://en.wikipedia.org/wiki/Printf_format_string), the main C output function
 - get_next_line(): code a fully secured function to read a [file descriptor](https://en.wikipedia.org/wiki/File_descriptor), in C
-- libft: recode library regrouping usual C functions allowed to use in future projects
+- libft: coded a library regrouping usual C functions in order to use them in future projects
 - fillit: coded an algorithm in C to instantly solve [tetris puzzle](https://fr.wikipedia.org/wiki/Tetris) game, using [backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
 ## freelance projects 💸
