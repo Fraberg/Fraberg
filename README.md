@@ -32,4 +32,3 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 <details><summary>(click to show)</summary>
 - lot of them
 </details>
-
