@@ -4,7 +4,7 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 ## achieved 42 projects 🎓
 <details><summary>(click to toggle)</summary>
 
-- web projects:
+- Web projects:
   - [**transcendence**](https://github.com/Fraberg/transcendence) (wip): build containerized webapp for online pong contest with [rails](https://rubyonrails.org/) and [backbonejs](https://backbonejs.org/)
 
 - [C++ language](https://en.wikipedia.org/wiki/C%2B%2B) projects:
