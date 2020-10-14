@@ -3,7 +3,8 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 
 ## projects achieved @42 🎓
 <details><summary>(click to toggle)</summary>
-  
+
+
 - [ft_transcendence](https://github.com/Fraberg/transcendence) (wip): build containerized webapp for online pong contest with [rails](https://rubyonrails.org/) and [backbonejs](https://backbonejs.org/)
 - [webserv](https://github.com/Fraberg/webserv): coded a web server and implemented [http protocol](https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol) in C++ ([RFCs](https://en.wikipedia.org/wiki/List_of_RFCs) 7230 to 7235), from scratch
 - ft_containers: recoded some [STL containers](https://en.cppreference.com/w/cpp/container) - list, vector, queue, stack and map (as a [binary search tree](https://fr.wikipedia.org/wiki/Arbre_binaire_de_recherche)) in C++
@@ -22,7 +23,8 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 
 ## freelance projects 💸
 <details><summary>(click to toggle)</summary>
-  
+
+
 - data analyst support for [finance experts](https://www.aeque-p.com/) in litigations & forensic 
 - web scrapping using [Puppeteer](https://developers.google.com/web/tools/puppeteer) for M&A business dev
 - [sentimental analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) of twitter trends for a political organization using [twitter API](https://developer.twitter.com/en/docs) and [Google AI APIs](https://cloud.google.com/natural-language)
@@ -32,6 +34,7 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
 
 ## side projects 😎
 <details><summary>(click to toggle)</summary>
-  
+
+
 - lot of them
 </details>
