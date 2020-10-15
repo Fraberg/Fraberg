@@ -51,7 +51,7 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
 
 - in python:
   - program to transfer all your spotify playlists into youtube music (because yt music > spotify)
-  - program to collect all your credit card operations daily and classify them into Google Sheet (done with the help of [Budget Insight API](https://www.budget-insight.com/))
+  - program to collect all your credit card operations daily and classify them into GSheet (with the help of [Budget Insight API](https://www.budget-insight.com/))
   - program to retrieve lyrics on [rap genius](https://genius.com/)
  
 - and many other, mostly done while bored in college
