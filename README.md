@@ -21,7 +21,7 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp (Batch #101, 2017
   - **libft**: coded a library regrouping usual functions in order to use them in future projects
   - **fillit**: coded an algorithm to instantly solve [tetris puzzle](https://fr.wikipedia.org/wiki/Tetris) game, using [backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
-- Devops projects (Kubernetes, Docker, Telegraf, InfluxDB, Grafana):
+- [Devops](https://en.wikipedia.org/wiki/DevOps) projects (Kubernetes, Docker, Telegraf, InfluxDB, Grafana):
   - **ft_services**: virtualize a network of microservices and do "clustering" with [docker](https://www.docker.com/) and [kubernetes](https://kubernetes.io/) stack
   - **ft_server**: do some system administration with [wordpress](wordpress), [phpmyadmin](https://www.phpmyadmin.net/), [nginx](https://en.wikipedia.org/wiki/Nginx) and [docker](https://www.docker.com/)
   
