@@ -16,10 +16,10 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp ([Batch #101](htt
   - **philosophers**: solved [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) with [multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
   - **minishell**: create a [shellscript](https://en.wikipedia.org/wiki/Shell_script) able to run [builtin commands](https://en.wikipedia.org/wiki/Shell_builtin#:~:text=In%20computing%2C%20a%20shell%20builtin,is%20no%20program%20loading%20overhead.) and execute binaries
   - **cub3D**: recoded a light version of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) game with sprites using [raycasting](https://en.wikipedia.org/wiki/Ray_casting) technique
+  - **fillit**: coded an algorithm to instantly solve [tetris puzzle](https://fr.wikipedia.org/wiki/Tetris) game, using [backtracking](https://en.wikipedia.org/wiki/Backtracking)
   - **ft_printf**: recoded [printf](https://en.wikipedia.org/wiki/Printf_format_string), the main C output function
   - **get_next_line()**: coded a fully secured function to read a [file descriptor](https://en.wikipedia.org/wiki/File_descriptor)
   - **libft**: coded a library regrouping usual functions in order to use them in future projects
-  - **fillit**: coded an algorithm to instantly solve [tetris puzzle](https://fr.wikipedia.org/wiki/Tetris) game, using [backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
 - [DevOps](https://en.wikipedia.org/wiki/DevOps) projects (Kubernetes, Docker, Telegraf, InfluxDB, Grafana):
   - **ft_services**: virtualize a network of microservices and do "clustering" with [docker](https://www.docker.com/) and [kubernetes](https://kubernetes.io/) stack
