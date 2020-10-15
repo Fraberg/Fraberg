@@ -45,7 +45,7 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp ([Batch #101](htt
   - designed, implemented and shipped to production [an order management software](https://www.ordea.co/) used by parisian artisans
 </details>
 
-## side projects 😎
+## side projects 🏄
 <details><summary>(click to toggle)</summary>
 
 - lot of them
