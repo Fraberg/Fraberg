@@ -52,7 +52,6 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
   - program to transfer all your spotify playlists into youtube music
   - program to retrieve all your credit card operations and classify them into Google Sheet (done with french Open Banking API 'Budget Insight' and Google Cloud Function and Cron Jobs)
   - program to retrieve lyrics on rap genius
-  - and many other ...
-- python program
-- and many other ...
+- and many other, mostly done while bored in college
+
 </details>
