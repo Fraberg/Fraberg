@@ -1,5 +1,5 @@
 Currently software engineering student at [42 school](https://www.42.fr/) in Paris, France.
-<br />Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp ([Batch #101](https://www.lewagon.com/fr), 2017).
+<br />Also Alumni of [Le Wagon](https://github.com/lewagon) coding bootcamp ([Batch #101](https://www.lewagon.com/fr), 2017).
 
 ## achieved 42 projects 🎓
 <details><summary>(click to toggle)</summary>
