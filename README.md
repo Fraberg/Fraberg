@@ -10,7 +10,7 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
 - [C++ language](https://en.wikipedia.org/wiki/C%2B%2B) projects:
   - [**webserv**](https://github.com/Fraberg/webserv): coded a web server and implemented [http protocol](https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol)([RFCs](https://en.wikipedia.org/wiki/List_of_RFCs) 7230 to 7235), from scratch
   - **ft_containers**: recoded some [STL containers](https://en.cppreference.com/w/cpp/container) - list, vector, queue, stack and map (as a [binary search tree](https://fr.wikipedia.org/wiki/Arbre_binaire_de_recherche))
-  - **C++ piscine**: validated suite of 9 projects made up of severals exercices to learn [OOP (Object-Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+  - **C++ 'piscine'**: validated suite of 9 projects made up of severals exercices to learn [OOP (Object-Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 - [C language](https://en.wikipedia.org/wiki/C_(programming_language)) projects:
   - **philosophers**: solved [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) with [multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
@@ -20,7 +20,7 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
   - **ft_printf**: recoded [printf](https://en.wikipedia.org/wiki/Printf_format_string), the main C output function
   - **get_next_line()**: coded a fully secured function to read a [file descriptor](https://en.wikipedia.org/wiki/File_descriptor)
   - **libft**: coded a library regrouping usual functions in order to use them in future projects
-  - [**C piscine**](https://www.42.fr/la-piscine/): 4 week entrance exam, done at Paris campus in July 2018, ranked top 5% on 800+ candidates
+  - [July 2018 **C 'piscine'**](https://www.42.fr/la-piscine/): 4 week entrance exam, ranked top 5% on 800+ candidates
 
 - [DevOps](https://en.wikipedia.org/wiki/DevOps) projects (Kubernetes, Docker, Telegraf, InfluxDB, Grafana):
   - **ft_services**: virtualize a network of microservices and do "clustering" with [docker](https://www.docker.com/) and [kubernetes](https://kubernetes.io/) stack
