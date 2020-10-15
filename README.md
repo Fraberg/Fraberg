@@ -48,6 +48,5 @@ Also Alumni of [Le Wagon](https://github.com/lewagon) bootcamp ([Batch #101](htt
 ## side projects 😎
 <details><summary>(click to toggle)</summary>
 
-
 - lot of them
 </details>
