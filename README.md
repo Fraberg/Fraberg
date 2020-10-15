@@ -20,7 +20,7 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
   - **ft_printf**: recoded [printf](https://en.wikipedia.org/wiki/Printf_format_string), the main C output function
   - **get_next_line()**: coded a fully secured function to read a [file descriptor](https://en.wikipedia.org/wiki/File_descriptor)
   - **libft**: coded a library regrouping usual functions in order to use them in future projects
-  - [**July 2018 C 'piscine'**](https://www.42.fr/la-piscine/): 4 weeks entrance exam, ranked top 5% on 800+ candidates
+  - [**C 'piscine' entrance exam**](https://www.42.fr/la-piscine/): 4 weeks long. Ranked top 5% on 800+ candidates
 
 - [DevOps](https://en.wikipedia.org/wiki/DevOps) projects (Kubernetes, Docker, Telegraf, InfluxDB, Grafana):
   - **ft_services**: virtualize a network of microservices and do "clustering" with [docker](https://www.docker.com/) and [kubernetes](https://kubernetes.io/) stack
