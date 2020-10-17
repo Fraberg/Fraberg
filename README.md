@@ -8,7 +8,7 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
   - [**transcendence**](https://github.com/Fraberg/transcendence) (wip): build containerized webapp for online pong contest with [rails](https://rubyonrails.org/) and [backbonejs](https://backbonejs.org/)
 
 - [C++ language](https://en.wikipedia.org/wiki/C%2B%2B) projects:
-  - [**webserv**](https://github.com/Fraberg/webserv): coded a web server and implemented [http protocol](https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol)([RFCs](https://en.wikipedia.org/wiki/List_of_RFCs) 7230 to 7235), from scratch
+  - [**webserv**](https://github.com/Fraberg/webserv): coded a web server and implemented [http protocol](https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol) ([RFCs](https://en.wikipedia.org/wiki/List_of_RFCs) 7230 to 7235), from scratch
   - **ft_containers**: recoded some [STL containers](https://en.cppreference.com/w/cpp/container) - list, vector, queue, stack and map (as a [binary search tree](https://fr.wikipedia.org/wiki/Arbre_binaire_de_recherche))
   - **C++ 'piscine'**: validated suite of 9 projects made up of severals exercices to learn [OOP (Object-Oriented Programming)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
