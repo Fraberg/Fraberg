@@ -5,7 +5,7 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
   - building APIs and other web services
   - NodeJS and Python
   - frameworks like React
-  - Google Cloud products
+  - Google Cloud serverless products
 
 ## achieved 42 projects 🎓
 <details><summary>(click to toggle)</summary>
