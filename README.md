@@ -14,7 +14,7 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
 
 - [C language](https://en.wikipedia.org/wiki/C_(programming_language)) projects:
   - [**philosophers**](https://github.com/Fraberg/philosophers/tree/master): simulated and solved [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) with [multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
-  - **minishell**: coded a [shellscript](https://en.wikipedia.org/wiki/Shell_script) able to run [builtin commands](https://en.wikipedia.org/wiki/Shell_builtin#:~:text=In%20computing%2C%20a%20shell%20builtin,is%20no%20program%20loading%20overhead.) and execute binaries
+  - [**minishell**](https://github.com/Fraberg/minishell): coded a [shellscript](https://en.wikipedia.org/wiki/Shell_script) able to run [builtin commands](https://en.wikipedia.org/wiki/Shell_builtin#:~:text=In%20computing%2C%20a%20shell%20builtin,is%20no%20program%20loading%20overhead.) and execute binaries
   - **cub3D**: coded a light version of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) game with sprites using [raycasting](https://en.wikipedia.org/wiki/Ray_casting) technique
   - **fillit**: coded an algorithm to instantly solve a kind of [tetris puzzle](https://fr.wikipedia.org/wiki/Tetris) game, using [backtracking](https://en.wikipedia.org/wiki/Backtracking)
   - **ft_printf**: recoded [printf](https://en.wikipedia.org/wiki/Printf_format_string), the main C output function
