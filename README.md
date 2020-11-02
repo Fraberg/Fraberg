@@ -36,7 +36,7 @@ Currently software engineering student at [42 school](https://www.42.fr/) in Par
 
 - in 2020:
   - data analyst support for [finance experts](https://www.aeque-p.com/) in litigations & forensic 
-  - web scrapping using [Puppeteer](https://developers.google.com/web/tools/puppeteer) for M&A business dev ([see the code here](https://github.com/Fraberg/web_scrapping))
+  - web scrapping using [Puppeteer](https://developers.google.com/web/tools/puppeteer) for M&A business dev ([see the code here](https://github.com/Fraberg/web_scrapping), [or here](https://github.com/Fraberg/ap_capital))
 
 - in 2019:
   - [sentimental analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) of twitter trends for a political organization using [twitter API](https://developer.twitter.com/en/docs) and [Google AI APIs](https://cloud.google.com/natural-language)
