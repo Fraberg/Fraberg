@@ -1,6 +1,8 @@
 Software engineering student at [42 school](https://www.42.fr/) in Paris, France.
 <br />Also alumni of [Le Wagon](https://www.lewagon.com/fr) coding bootcamp ([Batch #101](https://www.youtube.com/watch?v=zcFJrqtQYM0), 2017).
-<br />Currently [@AP-Capital](https://www.linkedin.com/company/ap-capital-advisory/?originalSubdomain=fr), see projects [here](https://github.com/ap-organization).
+<br />Currently:
+- working [@AP-Capital](https://www.linkedin.com/company/ap-capital-advisory/?originalSubdomain=fr), see projects [here](https://github.com/ap-organization).
+- learning Vue.js on [vuemastery.com](https://www.vuemastery.com/)
 
 ## achieved 42 projects 🎓
 <details><summary>(click to toggle)</summary>
