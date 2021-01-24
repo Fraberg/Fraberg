@@ -55,6 +55,9 @@ Software engineering student at [42 school](https://www.42.fr/) in Paris, France
 <details><summary>(click to toggle)</summary>
 🚧 WIP<br />
 
+- in js:
+  - MEVN app to list the common music tracks you are listening to with your friends. Using spotify/youtube APIs
+
 - in python:
   - program to transfer all your spotify playlists into youtube music (bc yt music > spotify)
   - program to collect credit card operations daily and classify them into GSheet (with the help of [Budget Insight API](https://www.budget-insight.com/))
