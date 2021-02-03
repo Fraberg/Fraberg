@@ -6,6 +6,7 @@ Software engineering student at [42 school](https://www.42.fr/) in Paris, France
 
 ## achieved 42 projects 🎓
 <details><summary>(click to toggle)</summary>
+
 🚧 WIP<br />
   
 - [C++ language](https://en.wikipedia.org/wiki/C%2B%2B) projects:
