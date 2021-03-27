@@ -1,6 +1,6 @@
 Software engineering at [42 school](https://www.42.fr/) in Paris, France
 <br />Also alumni of [Le Wagon](https://www.lewagon.com/fr) coding bootcamp ([Batch #101](https://www.youtube.com/watch?v=zcFJrqtQYM0), 2017)
-<br />Currently working at StationF Staff
+<br />Now fullstack dev at StationF Staff
 
 ## achieved 42 projects 🎓
 <details><summary>(click to toggle)</summary>
