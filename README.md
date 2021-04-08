@@ -65,3 +65,7 @@ Software engineering at [42 school](https://www.42.fr/) in Paris, France
 - and many other, mostly done while bored in college
 
 </details>
+
+<div>
+<img align="center" src="https://profile-counter.glitch.me/fraberg/count.svg" />
+</div>
