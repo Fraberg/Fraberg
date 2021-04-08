@@ -66,6 +66,8 @@ Software engineering at [42 school](https://www.42.fr/) in Paris, France
 
 </details>
 
+
+
 <div>
-<img align="center" src="https://profile-counter.glitch.me/fraberg/count.svg" />
+ <img align="center" src="https://profile-counter.glitch.me/fraberg/count.svg" />
 </div>
